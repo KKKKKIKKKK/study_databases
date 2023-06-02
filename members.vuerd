@@ -3,7 +3,7 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": -34.66666666666674,
+    "scrollTop": 0,
     "scrollLeft": 0,
     "zoomLevel": 1,
     "show": {
@@ -189,7 +189,7 @@
           "active": false,
           "left": 47,
           "top": 19,
-          "zIndex": 556,
+          "zIndex": 644,
           "widthName": 128.4326171875,
           "widthComment": 60
         },
@@ -385,7 +385,20 @@
     "indexes": []
   },
   "memo": {
-    "memos": []
+    "memos": [
+      {
+        "value": "회원정보에 대한 업무 \n- ",
+        "ui": {
+          "active": false,
+          "left": 496,
+          "top": 109.66666666666674,
+          "zIndex": 646,
+          "width": 127,
+          "height": 100
+        },
+        "id": "bc096773-3e79-418a-ad65-54e2b7dfe2d9"
+      }
+    ]
   },
   "relationship": {
     "relationships": [
