@@ -3,8 +3,8 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": 0,
-    "scrollLeft": 0,
+    "scrollTop": -1,
+    "scrollLeft": -2,
     "zoomLevel": 1,
     "show": {
       "tableComment": true,
@@ -143,9 +143,10 @@
           "active": false,
           "left": 39,
           "top": 49,
-          "zIndex": 508,
+          "zIndex": 511,
           "widthName": 135.376953125,
-          "widthComment": 60
+          "widthComment": 60,
+          "color": "#CE2020"
         },
         "visible": true,
         "id": "255d8bdb-6cd2-4471-9f87-247ab7b43380"
@@ -251,9 +252,10 @@
           "active": false,
           "left": 21,
           "top": 316,
-          "zIndex": 509,
+          "zIndex": 513,
           "widthName": 86.5126953125,
-          "widthComment": 60
+          "widthComment": 60,
+          "color": "#001CFF"
         },
         "visible": true,
         "id": "dc1079f9-43a5-4c53-8b93-bc26a2d533e3"
@@ -267,9 +269,9 @@
         "value": "차 관련 정보",
         "ui": {
           "active": false,
-          "left": 476,
-          "top": 158,
-          "zIndex": 492,
+          "left": 450,
+          "top": 189,
+          "zIndex": 517,
           "width": 127,
           "height": 100
         },
