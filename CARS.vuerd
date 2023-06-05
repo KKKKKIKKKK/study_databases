@@ -143,7 +143,7 @@
           "active": false,
           "left": 39,
           "top": 49,
-          "zIndex": 511,
+          "zIndex": 520,
           "widthName": 135.376953125,
           "widthComment": 60,
           "color": "#CE2020"
@@ -271,7 +271,7 @@
           "active": false,
           "left": 450,
           "top": 189,
-          "zIndex": 517,
+          "zIndex": 521,
           "width": 127,
           "height": 100
         },
