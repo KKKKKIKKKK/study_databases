@@ -143,7 +143,7 @@
           "active": false,
           "left": 39,
           "top": 49,
-          "zIndex": 520,
+          "zIndex": 3,
           "widthName": 135.376953125,
           "widthComment": 60,
           "color": "#CE2020"
@@ -252,7 +252,7 @@
           "active": false,
           "left": 21,
           "top": 316,
-          "zIndex": 513,
+          "zIndex": 1,
           "widthName": 86.5126953125,
           "widthComment": 60,
           "color": "#001CFF"
@@ -271,7 +271,7 @@
           "active": false,
           "left": 450,
           "top": 189,
-          "zIndex": 521,
+          "zIndex": 2,
           "width": 127,
           "height": 100
         },
