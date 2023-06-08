@@ -1,9 +1,10 @@
 -- refer : https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_columns
 
-SELECT  MAX(EMPLOYEE.CNT) AS MAX_COUNT, EMPLOYEE.NAME
+
+SELECT  MAX(EMPLOYEE.COUNT) AS MAX_COUNT, EMPLOYEE.NAME
 FROM
 (
-    SELECT ORD.EmployeeID, COUNT(ORD.EmployeeID) AS CNT, EPY.LastName AS NAME
+    SELECT ORD.EmployeeID, COUNT(ORD.EmployeeID) AS COUNT, EPY.LastName AS NAME
     FROM Orders AS ORD
     JOIN Employees AS EPY
     ON ORD.EmployeeID = EPY.EmployeeID
